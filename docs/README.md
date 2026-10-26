@@ -8,3 +8,5 @@
 - Circle: P = 2πR
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
+# Some change for Lesson 6 practice
+This line was added by Nikita Charikov (RI-340947).
